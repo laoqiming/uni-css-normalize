@@ -90,7 +90,10 @@ page{font-size: 14px}
 .mt{margin-top: 20rpx;}
 .mb{margin-bottom: 20rpx;}
 
-.border-radius{border-radius: 10%;}
+.border-radius{border-radius: 12rpx;}
+.border-radius-m{border-radius:20rpx}
+.border-radius-l{border-radius:40rpx}
+.border-radius-round{border-radius:50%}
 .border-radius-none{border-radius: 0;}
 
 /* 显示指定行数文字 */
