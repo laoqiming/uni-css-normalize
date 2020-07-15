@@ -1,6 +1,6 @@
 {
   "name": "uni-css-normalize",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "uni-css-normalize",
   "main": "src/uni-css-normalize.css",
   "styles": "src/uni-css-normalize.css",
