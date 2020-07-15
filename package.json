@@ -1,0 +1,28 @@
+{
+  "name": "uni-css-normalize",
+  "version": "1.0.0",
+  "description": "uni-css-normalize",
+  "main": "src/uni-css-normalize.css",
+  "styles": "src/uni-css-normalize.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "README.md",
+    "src/uni-css-normalize.css"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laoqiming/uni-css-normalize.git"
+  },
+  "keywords": [
+    "css",
+    "uni"
+  ],
+  "author": "laoqiming",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/laoqiming/uni-css-normalize/issues"
+  },
+  "homepage": "https://github.com/laoqiming/uni-css-normalize#readme"
+}
