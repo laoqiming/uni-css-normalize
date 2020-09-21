@@ -213,8 +213,14 @@ page{font-size: 14px}
     color:#f00;
     height: 100%;
   }
+  .box{
+    width: 100%;
+    background:#fff;
+    border-radius: 20rpx;
+    padding: 20rpx;
+  }
   
-  // 控件样式调整
+  /* 控件样式调整 */ 
   
   uni-load-more text{
     font-size:12px !important;
